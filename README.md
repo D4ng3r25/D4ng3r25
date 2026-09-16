@@ -1,4 +1,4 @@
-# Hi, I'm Sebastián 👋
+# Hi, I'm Sebastián
 
 **Final-year Software Engineering student** at Universidad Rey Juan Carlos (Madrid, Spain).
 I build backends in Java and Spring, front ends in React — and I like being the one who takes a project all the way to a real server with a real domain and real users.
