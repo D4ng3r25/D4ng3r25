@@ -1,4 +1,4 @@
-# Hi, I'm Sebastián
+# Hi, I'm Sebastián 👋
 
 **Final-year Software Engineering student** at Universidad Rey Juan Carlos (Madrid, Spain).
 I build backends in Java and Spring, front ends in React — and I like being the one who takes a project all the way to a real server with a real domain and real users.
@@ -38,9 +38,8 @@ The e-commerce layer is fully built and currently switched off behind a feature 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
-**Also:** JUnit · Mockito · RestAssured · JaCoCo · Artillery · Maven · Node.js/Express · Figma · Jira · UML · Scrum · AI-assisted development (Claude Code)
+**Also:** JUnit · Mockito · RestAssured · JaCoCo · Maven · Node.js/Express · Figma · Jira · UML · Scrum · AI-assisted development (Claude Code)
 
 ---
 
@@ -49,7 +48,7 @@ The e-commerce layer is fully built and currently switched off behind a feature 
 | Project | What it was | What I did |
 |---|---|---|
 | **[TicketHub](https://github.com/CodeURJC-DAW-2025-26/practica-daw-2025-26-grupo-10)** | Event ticketing platform — Spring Boot, MySQL, React, TypeScript, Docker. Team of 5. | Co-owned the Spring Security layer; worked across the backend (entities, services, REST controllers, DTOs) and built the purchase flow, product page with stock handling and admin profile editing. Solved the lost-update problem on concurrent profile edits with JPA optimistic locking (`@Version`). |
-| **Software Quality Assurance — Nitflex** | Testing and CI/CD on a Spring Boot app deployed to Azure. Team of 4. | Unit, integration, REST and end-to-end tests; designed the GitHub Actions CI workflow that runs the suites on every push to working branches; load testing with Artillery against p95 targets. |
+| **Software Quality Assurance — Nitflex** | Testing and CI/CD on a Spring Boot app deployed to Azure. Team of 4. | Unit, integration and REST API tests with coverage measured in JaCoCo; designed the GitHub Actions CI workflow that runs the suites on every push to working branches; deployment to Azure following GitHub Flow. |
 | **Software Evolution — SpotBugs** | Refactoring a real open-source static analysis tool with no documentation. | Migrated Java 8 → Java 21, added JSON export of results to both the CLI and the GUI, documented the architecture before and after in UML. |
 | **[Software Design & Architecture](https://github.com/Gabim23/Software-Arquitecture)** | Monolith → microservices design for a parcel transport company. Team of 6, four iterations. | API Gateway (Kong), Circuit Breaker, State pattern for order phases, Strategy for route optimisation, external payment gateway — all modelled in UML. |
 | **Software Processes** | Scrum practice on a programming-learning web app. | Rotated weekly through developer, Scrum Master and Product Owner. User stories, estimation, burndown charts, retrospectives on Jira and Miro. |
