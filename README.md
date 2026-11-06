@@ -1,13 +1,13 @@
-# Hi, I'm Sebastián 👋
+# Hi, I'm Sebastián
 
 **Final-year Software Engineering student** at Universidad Rey Juan Carlos (Madrid, Spain).
 I build backends in Java and Spring, front ends in React — and I like being the one who takes a project all the way to a real server with a real domain and real users.
 
-🔎 **Looking for a backend / full-stack internship starting January 2027.**
+**Looking for a backend / full-stack internship starting January 2027.**
 
 ---
 
-## 🚀 Naruart — my main project, live in production
+## Naruart — my main project, live in production
 
 **[naruart.com](https://naruart.com)** · Online catalogue for a professional illustrator. Designed, built and deployed **entirely by me**, from the data model to the firewall.
 
@@ -21,7 +21,7 @@ I build backends in Java and Spring, front ends in React — and I like being th
 
 The e-commerce layer is fully built and currently switched off behind a feature flag, as a product decision — it comes back with one environment variable.
 
-> 🔒 The repository is private. **Happy to walk through the code or the architecture on request** — just reach out.
+> The repository is private. **Happy to walk through the code or the architecture on request** — just reach out.
 
 ---
 
@@ -56,7 +56,7 @@ The e-commerce layer is fully built and currently switched off behind a feature 
 
 ---
 
-## 📫 Get in touch
+## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-silvera-546212234/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:silverasebastian82@gmail.com)
